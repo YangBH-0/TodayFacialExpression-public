@@ -1,0 +1,47 @@
+{
+    "anger" : [
+        {"뭐가 그렇게 화난건데~" : "juwon/angry1"},{"너만 화난거 같아? 어 맞아 너만 화났어 ㄹㅇㅋㅋ." : "juwon/angry2"},{"나도 너만 보면 화가 나긴해." : "juwon/angry3"},{"날 짜증나게 하지마." : "juwon/angry4"},{"이게 화날일인가...." : "juwon/angry5"},{"짜증이 나면 짜장면을 먹지 그래? ㅋㅋ루삥뽕~" : "juwon/angry6"},{"아 레알 킹받네." : "juwon/angry7"}
+    ],
+    "happiness" : [
+      {"뭘 웃긴 웃어." : "juwon/happy1"},{"ㅋㅋ루삥뽕." : "juwon/happy2"},{"아 ㅋㅋ 이건 좀 웃기네." : "juwon/happy3"},{"아 이건 못 참지 ㄹㅇㅋㅋ." : "juwon/happy4"},{"이건 너무 웃기자너~" : "juwon/happy5"},{"내 목소리가 좋아서 웃는거니. 그렇긴 하지 ㄹㅇㅋㅋ." : "juwon/happy6"},{"ㅋㅋ루ㅋㅋ." : "juwon/happy7"},{"재미없으니까 그만 웃어." : "juwon/happy8"},{"넌 어째 웃어도 못생겼냐 ㅋㅋㅋㅋ." : "juwon/happy9"},{"아 오늘 좀 레전드로 웃겼네 레알루다가." : "juwon/happy10"}
+    ],
+    "fearful" : [
+        {"ㅗㅜㅑ 왜이리 무섭냐~" : "juwon/fearful1"},{"야 이거 장난 아니다..." : "juwon/fearful2"},{"으아아 너무 무서워" : "juwon/fearful3"},{"너무너무 무섭다" : "juwon/fearful4"},{"제발 그만해~ 나 너무 무서워~" : "juwon/fearful5"},{"뭐가 무섭다는거야. 나는 하나도 안무섭구만. 아 좀 있다 엄마랑 자야겠다 ㄹㅇㅋㅋ." : "juwon/fearful6"},{"아 나는 하나도 안 무서웠다고 ㄹㅇㅋㅋ" : "juwon/fearful7"}
+    ],
+    "natural" : [
+        {"지금 뭐하고 있니." : "juwon/natural1"},{"아 심심하다." : "juwon/natural2"},{"지루하냐?" : "juwon/natural3"},{"그렇게 10년 동안 계속 가만 있어봐. 내가 10년 뒤에 박물관에 전시해 줄게." : "juwon/natural4"},{"왜 가만히 있는거야." : "juwon/natural5"},{"뭐라도 좀 해봐." : "juwon/natural6"},{"아무것도 안하니까 내가 다 지루하네." : "juwon/natural7"},{"지루하기 짝이 없네." : "juwon/natural8"},{"가만 있지 말고 조금은 활짝 웃어보지 그래?" : "juwon/natural9"},{"어쩔TV." : "juwon/natural10"},{"뭘 쳐다봐." : "juwon/natural11"}
+    ],
+    "sadness" : [
+        {"야 너 우냐? ㅋㅋㅋㅋ~" : "juwon/sad1"},{"너 우는거 진짜 못생겼다아아아." : "juwon/sad2"},{"울지마 친구야.... 너 우니까 진짜 보기 싫다 ㅋㅋㅋㅋ" : "juwon/sad3"},{"외로워도 슬퍼도 나는 안울어" : "juwon/sad4"},{"얘 또 우네, 또 울어." : "juwon/sad5"},{"여러분 얘 운데요 ㅋㅋ루삥뽕." : "juwon/sad6"},{"우울하면 울면을 먹어야 하는데 ㅋㅋ루삥빵뿡." : "juwon/sad7"},{"아 이건 3년치 놀림감으로써야겠다. 아 안봐준다고 ㄹㅇㅋㅋ." : "juwon/sad8"}
+    ],
+    "surprise" : [
+        {"놀랍네 놀라워" : "juwon/surprising1"},{"뭘 그리 놀래" : "juwon/surprising2"},{"나도 너 얼굴 처음 봤을때 이 표정이였는데" : "juwon/surprising3"},{"악! 깜짝이야" : "juwon/surprising4"},{"놀랄 것 없어 난 너 얼굴만 보면 항상 놀라서 적응 됐거든." : "juwon/surprising5"},{"입 좀 닫아 입냄새나 죽겠네." : "juwon/surprising6"},{"놀라긴 뭘 놀래 나는 하나도 안 놀랬구만. 내 속옷이 어딨더라...." : "juwon/surprising7"}
+    ],
+    "disgust" : [
+        {"날 그런 눈으로 쳐다보지마." : "juwon/disgusting1"},{"혹시 거울이라도 본거냐" : "juwon/disgusting2"},{"그렇게 쳐다봐서 나보고 어쩌라고." : "juwon/disgusting3"},{"넌 원래 얼굴이 그렇게 생겼냐아아아?" : "juwon/disgusting4"},{"날 좀 내버려둬" : "juwon/disgusting5"},{"너 얼굴을 좀 봐봐. 사람들이 너 볼 때 딱 그 표정으로 쳐다본다니까" : "juwon/disgusting6"},{"뭐, 뭐, 내가 왜!" : "juwon/disgusting7"}
+    ],
+    "unrecognizable" : [
+        {"얼굴 좀 들어." : "juwon/unrecognizable1"},{"얼굴이 안보이잖아." : "juwon/unrecognizable2"},{"넌 얼굴이 대체 어디 있는 거니." : "juwon/unrecognizable3"},{"얼굴을 찍으라니까." : "juwon/unrecognizable4"},{"표정 그렇게 짓는거 아닌데에에" : "juwon/unrecognizable5"}
+    ],
+    "unhappiness": [
+        {"다시 한번 찍어봐." : "juwon/unhappy1"},{"이 표정이 아니야." : "juwon/unhappy2"},{"좀 더 웃어봐." : "juwon/unhappy3"}
+    ],
+    "undisgust" : [
+        {"다시 한번 찍어봐." : "juwon/undisgusting1"},{"이 표정이 아니야." : "juwon/undisgusting2"},{"좀 더 역겨운 표정을 지어보는거야." : "juwon/undisgusting3"}
+    ],
+    "unanger" : [
+        {"다시 한번 찍어봐." : "juwon/unangry1"},{"이 표정이 아니야." : "juwon/unangry2"},{"넌 지금 이게 화낸 것처럼 보이는 거니?" : "juwon/unangry3"}
+    ],
+    "unsadness" : [
+        {"다시 한번 찍어봐." : "juwon/unsad1"},{"이 표정이 아니야." : "juwon/unsad2"},{"슬펐던 적이 한 번도 없었니?" : "juwon/unsad3"}
+    ],
+    "unsurprise" : [
+        {"다시 한번 찍어봐." : "juwon/unsurprising1"},{"이 표정이 아니야." : "juwon/unsurprising2"},{"놀라는 것은 눈이랑 입이 동그랗게 돼야돼." : "juwon/unsurprising3"}
+    ],
+    "unfearful" : [
+        {"다시 한번 찍어봐." : "juwon/unfearful1"},{"이 표정이 아니야." : "juwon/unfearful2"},{"너 뒤에 귀신이 있다고 생각해봐." : "juwon/unfearful3"}
+    ],
+    "unnatural" : [
+        {"다시 한번 찍어봐." : "juwon/unnatural1"},{"이 표정이 아니야." : "juwon/unnatural2"},{"제일 쉬운 표정을 지을 줄 모르면 어떡하니?" : "juwon/unnatural3"}
+    ]
+}

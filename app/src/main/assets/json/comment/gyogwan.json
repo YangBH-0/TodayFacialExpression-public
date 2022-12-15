@@ -1,0 +1,47 @@
+{
+    "anger" : [
+        {"지금 교관보고 화내시는겁니까." : "gyogwan/angry1"},{"화내지 마십쇼." : "gyogwan/angry2"},{"인상 똑바로 안핍니까?" : "gyogwan/angry3"},{"당장 연병장 가서 구보 10바퀴 뛰고 옵니다." : "gyogwan/angry4"},{"그런 표정은 적군 앞에서만 허용합니다." : "gyogwan/angry5"},{"표정 안핍니까??" : "gyogwan/angry6"},{"엎드립니다. 실시!" : "gyogwan/angry7"}
+    ],
+    "happiness" : [
+        {"웃지 마십쇼." : "gyogwan/happy1"},{"지금 웃음이 나옵니까?" : "gyogwan/happy2"},{"훈련이 장난입니까?" : "gyogwan/happy3"},{"웃을 상황이 아닙니다." : "gyogwan/happy4"},{"교관이 만만합니까?" : "gyogwan/happy5"},{"교관도 가끔은 웃곤 합니다." : "gyogwan/happy6"},{"지금 잠깐만 웃는 것을 허용하겠습니다." : "gyogwan/happy7"},{"훈련 중에 웃지 않습니다." : "gyogwan/happy8"},{"군기가 단단히 빠진 것 같습니다." : "gyogwan/happy9"}
+    ],
+    "fearful" : [
+        {"귀신도 잡는 교관 앞에서 두려움이란 없습니다." : "gyogwan/fearful1"},{"공포는 거짓일 뿐입니다." : "gyogwan/fearful2"},{"조만간 담력훈련을 실시해야겠습니다." : "gyogwan/fearful3"},{"마음을 단단히 먹으십쇼" : "gyogwan/fearful4"},{"교관이 무서워도 참습니다." : "gyogwan/fearful5"},{"뭐가 무섭다는겁니까?" : "gyogwan/fearful6"},{"심장을 단단히 붙드십쇼." : "gyogwan/fearful7"}
+    ],
+    "natural" : [
+        {"좋습니다. 그 표정 계속 유지합니다." : "gyogwan/natural1"},{"사나이는 감정을 버리고 침착하게 행동합니다." : "gyogwan/natural2"},{"묵묵히 따르십쇼." : "gyogwan/natural3"},{"그대로 가만히 있습니다." : "gyogwan/natural4"},{"항상 침착한 표정을 유지합니다." : "gyogwan/natural5"},{"군인은 군인답게!" : "gyogwan/natural6"},{"감정을 잘 컨트룰 할 줄 아는 것이 승리의 지름길입니다." : "gyogwan/natural7"}
+    ],
+    "sadness" : [
+        {"사나이는 울지 않습니다." : "gyogwan/sad1"},{"울지 마십쇼." : "gyogwan/sad2"},{"울긴 울어도 되는데 남들이 있을 때는 울지 않습니다." : "gyogwan/sad3"},{"이성적으로 판단하십쇼." : "gyogwan/sad4"},{"지금 많이 힘듭니까? 그래도 참습니다." : "gyogwan/sad5"},{"사나이가 울 때는 전우가 전사할 때만 우는 겁니다." : "gyogwan/sad6"},{"슬퍼도 지금은 참아 냅니다." : "gyogwan/sad7"},{"슬픔을 겉으로 보이지 않습니다." : "gyogwan/sad8"},{"쓸데없는 생각은 버려 둡니다." : "gyogwan/sad9"},{"힘들어도 참는 것이 참된 군인입니다." : "gyogwan/sad10"}
+    ],
+    "surprise" : [
+        {"사나이는 놀라지 않습니다." : "gyogwan/surprising1"},{"심장이 뭐이리 약합니까!" : "gyogwan/surprising2"},{"마음을 단단히 먹으십쇼." : "gyogwan/surprising3"},{"놀라도 마음 속에서만 놀랍니다." : "gyogwan/surprising4"},{"놀란 것을 겉으로 드러내지 않습니다." : "gyogwan/surprising5"},{"이게 놀랄 정도입니까?" : "gyogwan/surprising6"},{"이것 정도는 놀랄 것도 없습니다." : "gyogwan/surprising7"},{"제가 전쟁터에 있을때 코 앞에서 지뢰가 터져도 눈 하나 깜빡하지 않았습니다." : "gyogwan/surprising8"}
+    ],
+    "disgust" : [
+        {"지금 뭐하시는 겁니까!" : "gyogwan/disgusting1"},{"그런 표정 짓지 않습니다." : "gyogwan/disgusting2"},{"교관 앞에서 한번만 더 그런 표정 지으면 바로 얼차려 들어갑니다!" : "gyogwan/disgusting3"},{"더러운 얼굴은 치우십쇼." : "gyogwan/disgusting4"},{"인간 다운 표정을 지으십쇼." : "gyogwan/disgusting5"}
+    ],
+    "unrecognizable" : [
+        {"다시 얼굴을 들이밉니다." : "gyogwan/unrecognizable1"},{"이 표정이 아닙니다." : "gyogwan/unrecognizable2"},{"얼굴만 제대로 찍습니다." : "gyogwan/unrecognizable3"}
+    ],
+    "unhappiness": [
+        {"다시 한번 찍습니다." : "gyogwan/unhappy1"},{"이 표정이 아닙니다." : "gyogwan/unhappy2"},{"인상 핍니다." : "gyogwan/unhappy3"}
+    ],
+    "undisgust" : [
+        {"다시 한번 찍습니다." : "gyogwan/undisgusting1"},{"이 표정이 아닙니다." : "gyogwan/undisgusting2"},{"훈련소에 처음 들어왔던 날을 떠올립니다." : "gyogwan/undisgusting3"}
+    ],
+    "unanger" : [
+        {"다시 한번 찍습니다." : "gyogwan/unangry1"},{"이 표정이 아닙니다." : "gyogwan/unangry2"},{"표정을 야수같이 사납게 짓습니다." : "gyogwan/unangry3"}
+    ],
+    "unsadness" : [
+        {"다시 한번 찍습니다." : "gyogwan/unsad1"},{"이 표정이 아닙니다." : "gyogwan/unsad2"},{"전우가 전사할 때도 그런 표정을 지을 겁니까?" : "gyogwan/unsad3"}
+    ],
+    "unsurprise" : [
+        {"다시 한번 찍습니다." : "gyogwan/unsurprising1"},{"이 표정이 아닙니다." : "gyogwan/unsurprising2"},{"놀라는 표정 짓는 것이 그렇게나 어려운 일인겁니까?" : "gyogwan/unsurprising3"}
+    ],
+    "unfearful" : [
+        {"다시 한번 찍습니다." : "gyogwan/unfearful1"},{"이 표정이 아닙니다." : "gyogwan/unfearful2"},{"지금 교관을 보고도 두렵지 않는 겁니까?" : "gyogwan/unfearful3"}
+    ],
+    "unnatural" : [
+        {"다시 한번 찍습니다." : "gyogwan/unnatural1"},{"이 표정이 아닙니다." : "gyogwan/unnatural2"},{"지금은 훈련 중입니다. 군인은 어떤 상황이 닥쳐와도 침착함을 유지해야 합니다." : "gyogwan/unnatural3"}
+    ]
+}

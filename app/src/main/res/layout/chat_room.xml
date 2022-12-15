@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B2C7D9"
+    tools:contxt=".app.views.part2.ChatRoomActivity">
+    <RelativeLayout
+        android:id="@+id/id_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/layout1"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyvlerv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:background="#FFFFFF"
+            android:padding="10dp">
+
+            <ImageButton
+                android:id="@+id/addImg"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:background="@drawable/custom_click_addimage"
+                />
+
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:background="@drawable/border"
+                android:imeActionLabel="@string/send"
+                android:imeOptions="actionSend"
+                android:inputType="text|textNoSuggestions"
+                android:padding="6dp"
+                android:layout_margin="5dp"
+                android:scrollHorizontally="false"
+                android:selectAllOnFocus="true"
+                android:singleLine="true" />
+
+            <ImageButton
+                android:id="@+id/chatRoomSendBtn"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/custom_click_messagesend"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_001"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#52FFFFFF">
+
+            <ImageButton
+                android:id="@+id/btn_menu"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_weight="1"
+                android:background="@drawable/custom_click_sidebarimg"
+                android:scaleType="fitXY"/>
+
+            <TextView
+                android:id="@+id/chatstat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="오늘의 표정"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/rl_001" />
+    </RelativeLayout>
+    <FrameLayout
+        android:id="@+id/fl_silde"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.75"
+            android:background="#A9BDCE"/>
+
+        <FrameLayout
+            android:id="@+id/view_sildebar"
+            android:layout_width="280dp"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+
+
+
+
+</RelativeLayout>

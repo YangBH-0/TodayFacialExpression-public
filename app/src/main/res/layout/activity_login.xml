@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_background"
+    tools:context=".login.LoginActivity">
+
+    <ImageView
+        android:id="@+id/login_logo"
+        android:layout_width="358dp"
+        android:layout_height="226dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="210dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.054"
+        app:srcCompat="@drawable/custom_logo" />
+
+    <ImageView
+        android:id="@+id/login_white_box"
+        android:layout_width="370dp"
+        android:layout_height="310dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_logo"
+        app:layout_constraintVertical_bias="0.7"
+        app:srcCompat="@drawable/whitebx" />
+
+    <EditText
+        android:id="@+id/login_user_id"
+        android:background="@drawable/custom_input"
+        android:drawableStart="@drawable/custom_id_icon"
+        android:drawableEnd="@drawable/smile_icon"
+        android:drawablePadding="10dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:autofillHints="@string/prompt_id"
+        android:hint="@string/prompt_id"
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        app:layout_constraintBottom_toTopOf="@+id/login_user_password"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toTopOf="@+id/login_white_box" />
+
+    <EditText
+        android:id="@+id/login_user_password"
+        android:drawableStart="@drawable/custom_lock_icon"
+        android:drawableEnd="@drawable/scare_icon"
+        android:drawablePadding="10dp"
+        android:background="@drawable/custom_input"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:autofillHints="@string/prompt_password"
+        android:hint="@string/prompt_password"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="true"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toBottomOf="@+id/login_user_id"
+        app:layout_constraintBottom_toTopOf="@+id/login_btn_linearLayout_activity"
+        tools:layout_editor_absoluteY="528dp" />
+
+    <ProgressBar
+        android:id="@+id/login_loading"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="64dp"
+        android:layout_marginBottom="64dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <LinearLayout
+        android:id="@+id/login_btn_linearLayout_wait"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_weight="15"
+        app:layout_constraintBottom_toTopOf="@+id/signup_btn_linearLayout_activity"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toBottomOf="@+id/login_user_password">
+        <ImageView
+            android:id="@+id/login_wait"
+            android:layout_width="200dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/login_btn_linearLayout_activity"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_weight="85"
+        app:layout_constraintBottom_toTopOf="@+id/signup_btn_linearLayout_activity"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toBottomOf="@+id/login_user_password">
+        <ImageButton
+            android:id="@+id/login_activity"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/custom_click_login" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/signup_btn_linearLayout_wait"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_weight="15"
+        tools:layout_editor_absoluteX="90dp"
+        app:layout_constraintBottom_toBottomOf="@+id/login_white_box"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toBottomOf="@+id/login_btn_linearLayout_activity" >
+        <ImageView
+            android:id="@+id/wait_signup"
+            android:layout_width="200dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/signup_btn_linearLayout_activity"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_weight="85"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="657dp"
+        app:layout_constraintBottom_toBottomOf="@+id/login_white_box"
+        app:layout_constraintEnd_toEndOf="@+id/login_white_box"
+        app:layout_constraintStart_toStartOf="@+id/login_white_box"
+        app:layout_constraintTop_toBottomOf="@+id/login_btn_linearLayout_activity" >
+        <ImageButton
+            android:id="@+id/signup_join_activity_btn"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/custom_click_signup" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

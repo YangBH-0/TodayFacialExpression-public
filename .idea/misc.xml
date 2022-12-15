@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_click_confirm.xml" value="0.1" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/sidebar_hidden.xml" value="0.1" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activitiy_signup.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_loading.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_main.xml" value="0.2669706180344478" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_bottom_slide.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_left_img.xml" value="0.2669706180344478" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_left_item.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_right_img.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_right_item.xml" value="0.2669706180344478" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/emotional_recog.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/sidebar_hidden.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/tts_sidebar.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/coj56/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/tts_slidebar.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/click.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/click1.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_click_login.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_email_icon.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_id_icon.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_input.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_lock_icon.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/custom_username_icon.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_id.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_id_focus.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_id_focused.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_lock.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_lock_focused.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_username.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/drawable/ic_username_focused.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.178714859437751" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout-w936dp/activity_login.xml" value="0.153515625" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activitiy_signup.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_loading.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_center_item.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_left_img.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_left_item.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_right_img.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/chat_room_right_item.xml" value="0.2359375" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/layout/sign_up.xml" value="0.271875" />
+        <entry key="..\:/Users/t1/AndroidStudioProjects/TodayFacialExpression/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.334375" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/activity_main.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/chat_room.xml" value="0.1" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/chat_room_left_img.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/chat_room_left_item.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/chat_room_right_img.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/yang/AndroidStudioProjects/TodayFacialExpression2/app/src/main/res/layout/emotional_recog.xml" value="0.1" />
+        <entry key="..\:/andriod_workspace/TodayFacialExpression/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/andriod_workspace/TodayFacialExpression/app/src/main/res/layout/chat_room.xml" value="0.19010416666666666" />
+        <entry key="..\:/andriod_workspace/TodayFacialExpression/app/src/main/res/layout/chat_room_center_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/andriod_workspace/TodayFacialExpression/app/src/main/res/layout/chat_room_right_img.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

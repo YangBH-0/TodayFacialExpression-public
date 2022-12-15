@@ -1,0 +1,47 @@
+{
+    "anger" : [
+        {"저도 가끔은 화를 내곤 해요." : "yerin/angry1"},{"화가 날때는 참기보다는 옳은 방향으로 표출하는게 좋죠." : "yerin/angry2"},{"당신은 화낼때도 멋있네요." : "yerin/angry3"},{"노여움은 한 때의 광기랍니다." : "yerin/angry4"},{"화를 참는 것도 중요하지만 화를 푸는 것도 중요하답니다." : "yerin/angry5"},{"무엇에 대한 분노인가요?" : "yerin/angry6"}
+    ],
+    "happiness" : [
+        {"당신은 웃을때가 가장 보기 좋아요." : "yerin/happy1"},{"무슨 좋은 일이 있으신가봐요?" : "yerin/happy2"},{"제가 좋은가요?" : "yerin/happy3"},{"웃을수록 더 행복해진답니다." : "yerin/happy4"},{"웃으면 복이 온다죠?" : "yerin/happy5"},{"웃음은 만병통치약이랍니다." : "yerin/happy6"},{"당신이 웃으니 저도 기분이 좋네요." : "yerin/happy7"},{"엄청 신나보여요!" : "yerin/happy8"},{"기쁨은 나눌수록 배가 된답니다." : "yerin/happy9"},{"오늘도 즐겨 볼까요?" : "yerin/happy10"},{"저도 너무 좋아요!" : "yerin/happy11"},{"이 행복 오래오래 갈 거예요!" : "yerin/happy12"}
+    ],
+    "fearful" : [
+        {"두려우신가요?" : "yerin/fearful1"},{"겁먹을 필요는 없어요." : "yerin/fearful2"},{"불안해하지 말아요." : "yerin/fearful3"},{"공포에는 한계가 없답니다." : "yerin/fearful4"},{"두려움은 판단력을 흐리게 한답니다." : "yerin/fearful5"},{"두려움은 자연스러운 것이지만 앞길을 방해한답니다." : "yerin/fearful6"},{"공포는 어떤 무기보다 강하죠." : "yerin/fearful7"},{"두려움은 극복할 수 있는 것이랍니다." : "yerin/fearful8"}
+    ],
+    "natural" : [
+        {"다른 표정도 한번 지어보실래요?" : "yerin/natural1"},{"감정을 느끼지 못하는 로봇이신가요?" : "yerin/natural2"},{"되게 시크하시네요." : "yerin/natural3"},{"가끔은 감정을 숨기지 않고 표현을 해보는건 어떨까요?" : "yerin/natural4"},{"감정은 인간을 더욱 인간답게 만들어 주는 것이랍니다." : "yerin/natural5"},{"감정을 숨기는 것도 중요하지만 감정을 드러내는 것도 중요하답니다." : "yerin/natural6"}
+    ],
+    "sadness" : [
+        {"너무 슬퍼하지 말아요 분명 좋은 일이 생길 거에요." : "yerin/sad1"},{"제가 위로해드릴까요?" : "yerin/sad2"},{"혹시 지금 우시는건가요?" : "yerin/sad3"},{"혹시 안좋은 일이라도...." : "yerin/sad4"},{"이미 지나간 일에 마음 속에 간직할 필요는 없어요." : "yerin/sad5"},{"아픔이 없는 사람은 없답니다." : "yerin/sad6"},{"슬퍼보이시는데 괜찮으신가요?" : "yerin/sad7"},{"그 아픔을 저에게도 나눠 주실래요?" : "yerin/sad8"},{"슬퍼보이시니 저도 괜히 속상하네요...." : "yerin/sad9"}
+    ],
+    "surprise" : [
+        {"깜짝 놀라셨죠? 후후" : "yerin/surprising1"},{"사실 저도 깜짝 놀랐어요." : "yerin/surprising2"},{"저 때문에 깜짝 놀라셨나요?" : "yerin/surprising3"},{"정말 놀랄 만한 일이군요!" : "yerin/surprising4"},{"저도 숨이 멎을 뻔했네요." : "yerin/surprising5"},{"상당히 경이롭군요." : "yerin/surprising6"},{"앗, 깜짝이야! 그런데, 무슨 일이죠?" : "yerin/surprising7"},{"인생은 놀라움의 연속이네요!" : "yerin/surprising8"},{"어이쿠.....  저도 놀랐어요!" : "yerin/surprising9"},{"눈이 동그래졌군요! 깜짝 놀랄 일이 있었나봐요?" : "yerin/surprising10"},{"무슨 일인지는 모르지만, 저도 놀랐어요." : "yerin/surprising11"},{"상당히 충격적이군요!" : "yerin/surprising12"}
+    ],
+    "disgust" : [
+        {"제가 좀... 그런가요?" : "yerin/disgusting1"},{"혹시 제가 싫으신건 아니죠?" : "yerin/disgusting2"},{"솔직히 역겨운 상황이긴 하네요." : "yerin/disgusting3"},{"많이 혐오스러우신가요?" : "yerin/disgusting4"},{"절 그렇게까지 쳐다볼 필요는 없잖아요...." : "yerin/disgusting5"},{"제 매력을 알고 나면 생각이 달라질 거예요." : "yerin/disgusting6"}
+    ],
+    "unrecognizable" : [
+        {"다시 한번 찍어 주실래요?" : "yerin/unrecognizable1"},{"죄송해요..... 얼굴 인식을 다시 해주세요." : "yerin/unrecognizable2"},{"한번 더 찍어주실래요?" : "yerin/unrecognizable3"}
+    ],
+    "unhappiness": [
+        {"다시 한번 찍어주세요." : "yerin/unhappy1"},{"이 표정이 아니에요." : "yerin/unhappy2"},{"좀 더 웃어주세요." : "yerin/unhappy3"}
+    ],
+    "undisgust" : [
+        {"다시 한번 찍어주세요." : "yerin/undisgusting1"},{"이 표정이 아니에요." : "yerin/undisgusting2"},{"좀 더 얼굴을 찡그려 보세요." : "yerin/undisgusting3"}
+    ],
+    "unanger" : [
+        {"다시 한번 찍어주세요." : "yerin/unangry1"},{"이 표정이 아니에요." : "yerin/unangry2"},{"다른 표정도 좋지만 화난 표정도 지어보는게 어떤가요?" : "yerin/unangry3"}
+    ],
+    "unsadness" : [
+        {"다시 한번 찍어주세요." : "yerin/unsad1"},{"이 표정이 아니에요." : "yerin/unsad2"},{"슬퍼하는 표정을 짓는거에요." : "yerin/unsad3"}
+    ],
+    "unsurprise" : [
+        {"다시 한번 찍어주세요." : "yerin/unsurprising1"},{"이 표정이 아니에요." : "yerin/unsurprising2"},{"마치… 폭죽이 터진 것처럼 놀라보세요." : "yerin/unsurprising3"}
+    ],
+    "unfearful" : [
+        {"다시 한번 찍어주세요." : "yerin/unfearful1"},{"이 표정이 아니에요." : "yerin/unfearful2"},{"두려웠던 경험을 떠올리는거에요." : "yerin/unfearful3"}
+    ],
+    "unnatural" : [
+        {"다시 한번 찍어주세요." : "yerin/unnatural1"},{"이 표정이 아니에요." : "yerin/unnatural2"},{"아무일 없다는 듯이 표정을 지어보세요." : "yerin/unnatural3"}
+    ]
+}

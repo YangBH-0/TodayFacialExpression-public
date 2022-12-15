@@ -1,0 +1,67 @@
+{
+  "anger":[
+    {"드보르작 교향곡 9번 신세계로부터" : "angry/angrymusic1"},
+    {"차이코프스키: 바이올린 협주곡 D장조 작품번호35 - 3악장" : "angry/angrymusic2"},
+    {"카를 오르프 카르미나 부라나 제 1곡 운명의 여신이여" : "angry/angrymusic3"},
+    {"베토벤 코리올리안 서곡 Op.62" : "angry/angrymusic4" },
+    {"하이든 가상칠언 XX1 IX" : "angry/angrymusic5"},
+    {"칼 젠킨스 팔라디오" : "angry/angrymusic6"},
+    {"베토벤 교향곡 9번 합창" : "angry/angrymusic7"}
+  ],
+  "disgust": [
+    {"리스트 초절기교 연습곡 8번 사냥" : "disgusting/disgustingmusic1"},
+    {"파가니니 카프리스 24번 가단조 Op.1" : "disgusting/disgustingmusic2"},
+    {"쇼팽 에튀드 Op.10 12번 혁명" : "disgusting/disgustingmusic3"},
+    {"라흐마니노프 프렐류드 Op.3 2번 c단조" : "disgusting/disgustingmusic4"},
+    {"쇼스타코비치 현악 사중주 8번 c단조" : "disgusting/disgustingmusic5"},
+    {"프로코피에프 로미오와 줄리엣 모음곡 트볼트의 죽음" : "disgusting/disgustingmusic6"},
+    {"비에니아프스키 협주곡 Op.15" : "disgusting/disgustingmusic7"}
+  ],
+  "fear": [
+    {"생상스 죽음의 무도" : "fearful/fearfulmusic1"},
+    {"쇼팽 프렐류드 Op.28 2번" : "fearful/fearfulmusic2"},
+    {"모데스트 무소르그스키 민둥산의 하룻밤" : "fearful/fearfulmusic3"},
+    {"니콜라이 림스키코르사코프 왕벌의 비행" : "fearful/fearfulmusic4"},
+    {"바흐 토카타와 푸가 라단조" : "fearful/fearfulmusic5"},
+    {"베토벤 월광소나타" : "fearful/fearfulmusic6"},
+    {"차이코프스키 호두까기 인형 설탕 요정의 춤" : "fearful/fearfulmusic7"}
+  ],
+  "happiness": [
+    {"요한 슈트라우스 라데츠키행진곡" : "happy/happymusic1"},
+    {"비발디 사계 봄 1악장" : "happy/happymusic2"},
+    {"차이코프스키 호두까기 인형 러시아 춤" : "happy/happymusic3"},
+    {"로시니 기욤 텔 서곡 (윌리엄 텔 서곡)" : "happy/happymusic4"},
+    {"멘델스존 한여름 밤의 꿈 축혼 행진곡" : "happy/happymusic5"},
+    {"조르주 비제 카르멘 서곡 투우사의 행진" : "happy/happymusic6"},
+    {"오펜바흐 천국과 지옥" : "happy/happymusic7"},
+    {"constant moderato" : "happy/happymusic8"}
+  ],
+  "natural":[
+    {"베토벤 피아노 소나타 8번 비창 2악장" : "natural/naturalmusic1"},
+    {"바흐 평균율 클라비어 곡집 1권 프렐류드와 푸가 1번" : "natural/naturalmusic2"},
+    {"바흐 골드베르크 변주곡 BWV988" : "natural/naturalmusic3"},
+    {"멘델스존 무언가 1번" : "natural/naturalmusic4"},
+    {"생상스 동물의 사육제 13악장 백조" : "natural/naturalmusic5"},
+    {"그리그 페르귄트 모음곡 아침의 기분" : "natural/naturalmusic6"},
+    {"사티 짐노페디 1번" : "natural/naturalmusic7"}
+  ],
+  "sadness": [
+    {"쇼팽 에튀드 Op.10 3번" : "sad/sadmusic1"},
+    {"쇼팽 녹턴 Op.15 5번" : "sad/sadmusic2"},
+    {"쇼팽 녹턴 Op.27 7번" : "sad/sadmusic3"},
+    {"헨델 사라방드 HWV437" : "sad/sadmusic4"},
+    {"쇼팽 왈츠 10번 Op.69 2번" : "sad/sadmusic5"},
+    {"델라제" : "sad/sadmusic6"},
+    {"사라사테 치고이너바이젠 Op.20" : "sad/sadmusic7"}
+  ],
+  "surprise": [
+    {"비발디 사계 여름 3악장 프레스토" : "surprising/surprisingmusic1"},
+    {"베토벤 교향곡 3번 Op.55 영웅" : "surprising/surprisingmusic2"},
+    {"브람스 비극적 서곡 Op.81" : "surprising/surprisingmusic3"},
+    {"하이든 놀람교향곡" : "surprising/surprisingmusic4"},
+    {"요한 스트라우스 2세 박쥐 서곡" : "surprising/surprisingmusic5"},
+    {"모차르트 레퀴엠 제 1 부속가 진노의 날" : "surprising/surprisingmusic6"},
+    {"모차르트 교향곡 제 40번 4악장" : "surprising/surprisingmusic7"},
+    {"Unwelcome School" : "surprising/surprisingmusic8"}
+  ]
+}

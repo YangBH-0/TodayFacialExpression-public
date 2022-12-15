@@ -1,0 +1,47 @@
+{
+    "anger" : [
+        {"저도 가끔은 화를 내곤 해요." : "chaerin/angry1"},{"화가 날때는 참기보다는 옳은 방향으로 표출하는게 좋죠." : "chaerin/angry2"},{"당신은 화낼때도 멋있네요." : "chaerin/angry3"},{"노여움은 한 때의 광기랍니다." : "chaerin/angry4"},{"화를 참는 것도 중요하지만 화를 푸는 것도 중요하답니다." : "chaerin/angry5"},{"무엇에 대한 분노인가요?" : "chaerin/angry6"}
+    ],
+    "happiness" : [
+        {"당신은 웃을때가 가장 보기 좋아요." : "chaerin/happy1"},{"무슨 좋은 일이 있으신가봐요?" : "chaerin/happy2"},{"제가 좋은가요?" : "chaerin/happy3"},{"웃을수록 더 행복해진답니다." : "chaerin/happy4"},{"웃으면 복이 온다죠?" : "chaerin/happy5"},{"웃음은 만병통치약이랍니다." : "chaerin/happy6"},{"당신이 웃으니 저도 기분이 좋네요." : "chaerin/happy7"},{"엄청 신나보여요!" : "chaerin/happy8"},{"기쁨은 나눌수록 배가 된답니다." : "chaerin/happy9"},{"오늘도 즐겨 볼까요?" : "chaerin/happy10"},{"저도 너무 좋아요!" : "chaerin/happy11"},{"이 행복 오래오래 갈 거예요!" : "chaerin/happy12"}
+    ],
+    "fearful" : [
+        {"두려우신가요?" : "chaerin/fearful1"},{"겁먹을 필요는 없어요." : "chaerin/fearful2"},{"불안해하지 말아요." : "chaerin/fearful3"},{"공포에는 한계가 없답니다." : "chaerin/fearful4"},{"두려움은 판단력을 흐리게 한답니다." : "chaerin/fearful5"},{"두려움은 자연스러운 것이지만 앞길을 방해한답니다." : "chaerin/fearful6"},{"공포는 어떤 무기보다 강하죠." : "chaerin/fearful7"},{"두려움은 극복할 수 있는 것이랍니다." : "chaerin/fearful8"}
+    ],
+    "natural" : [
+        {"다른 표정도 한번 지어보실래요?" : "chaerin/natural1"},{"감정을 느끼지 못하는 로봇이신가요?" : "chaerin/natural2"},{"되게 시크하시네요." : "chaerin/natural3"},{"가끔은 감정을 숨기지 않고 표현을 해보는건 어떨까요?" : "chaerin/natural4"},{"감정은 인간을 더욱 인간답게 만들어 주는 것이랍니다." : "chaerin/natural5"},{"감정을 숨기는 것도 중요하지만 감정을 드러내는 것도 중요하답니다." : "chaerin/natural6"}
+    ],
+    "sadness" : [
+        {"너무 슬퍼하지 말아요 분명 좋은 일이 생길 거에요." : "chaerin/sad1"},{"제가 위로해드릴까요?" : "chaerin/sad2"},{"혹시 지금 우시는건가요?" : "chaerin/sad3"},{"혹시 안좋은 일이라도...." : "chaerin/sad4"},{"이미 지나간 일에 마음 속에 간직할 필요는 없어요." : "chaerin/sad5"},{"아픔이 없는 사람은 없답니다." : "chaerin/sad6"},{"슬퍼보이시는데 괜찮으신가요?" : "chaerin/sad7"},{"그 아픔을 저에게도 나눠 주실래요?" : "chaerin/sad8"},{"슬퍼보이시니 저도 괜히 속상하네요...." : "chaerin/sad9"}
+    ],
+    "surprise" : [
+        {"깜짝 놀라셨죠? 후후" : "chaerin/surprising1"},{"사실 저도 깜짝 놀랐어요." : "chaerin/surprising2"},{"저 때문에 깜짝 놀라셨나요?" : "chaerin/surprising3"},{"정말 놀랄 만한 일이군요!" : "chaerin/surprising4"},{"저도 숨이 멎을 뻔했네요." : "chaerin/surprising5"},{"상당히 경이롭군요." : "chaerin/surprising6"},{"앗, 깜짝이야! 그런데, 무슨 일이죠?" : "chaerin/surprising7"},{"인생은 놀라움의 연속이네요!" : "chaerin/surprising8"},{"어이쿠.....  저도 놀랐어요!" : "chaerin/surprising9"},{"눈이 동그래졌군요! 깜짝 놀랄 일이 있었나봐요?" : "chaerin/surprising10"},{"무슨 일인지는 모르지만, 저도 놀랐어요." : "chaerin/surprising11"},{"상당히 충격적이군요!" : "chaerin/surprising12"}
+    ],
+    "disgust" : [
+        {"제가 좀... 그런가요?" : "chaerin/disgusting1"},{"혹시 제가 싫으신건 아니죠?" : "chaerin/disgusting2"},{"솔직히 역겨운 상황이긴 하네요." : "chaerin/disgusting3"},{"많이 혐오스러우신가요?" : "chaerin/disgusting4"},{"절 그렇게까지 쳐다볼 필요는 없잖아요...." : "chaerin/disgusting5"},{"제 매력을 알고 나면 생각이 달라질 거예요." : "chaerin/disgusting6"}
+    ],
+    "unrecognizable" : [
+        {"다시 한번 찍어 주실래요?" : "chaerin/unrecognizable1"},{"죄송해요..... 얼굴 인식을 다시 해주세요." : "chaerin/unrecognizable2"},{"한번 더 찍어주실래요?" : "chaerin/unrecognizable3"}
+    ],
+    "unhappiness": [
+        {"다시 한번 찍어주세요." : "chaerin/unhappy1"},{"이 표정이 아니에요." : "chaerin/unhappy2"},{"좀 더 웃어주세요." : "chaerin/unhappy3"}
+    ],
+    "undisgust" : [
+        {"다시 한번 찍어주세요." : "chaerin/undisgusting1"},{"이 표정이 아니에요." : "chaerin/undisgusting2"},{"좀 더 얼굴을 찡그려 보세요." : "chaerin/undisgusting3"}
+    ],
+    "unanger" : [
+        {"다시 한번 찍어주세요." : "chaerin/unangry1"},{"이 표정이 아니에요." : "chaerin/unangry2"},{"다른 표정도 좋지만 화난 표정도 지어보는게 어떤가요?" : "chaerin/unangry3"}
+    ],
+    "unsadness" : [
+        {"다시 한번 찍어주세요." : "chaerin/unsad1"},{"이 표정이 아니에요." : "chaerin/unsad2"},{"슬퍼하는 표정을 짓는거에요." : "chaerin/unsad3"}
+    ],
+    "unsurprise" : [
+        {"다시 한번 찍어주세요." : "chaerin/unsurprising1"},{"이 표정이 아니에요." : "chaerin/unsurprising2"},{"마치… 폭죽이 터진 것처럼 놀라보세요." : "chaerin/unsurprising3"}
+    ],
+    "unfearful" : [
+        {"다시 한번 찍어주세요." : "chaerin/unfearful1"},{"이 표정이 아니에요." : "chaerin/unfearful2"},{"두려웠던 경험을 떠올리는거에요." : "chaerin/unfearful3"}
+    ],
+    "unnatural" : [
+        {"다시 한번 찍어주세요." : "chaerin/unnatural1"},{"이 표정이 아니에요." : "chaerin/unnatural2"},{"아무일 없다는 듯이 표정을 지어보세요." : "chaerin/unnatural3"}
+    ]
+}

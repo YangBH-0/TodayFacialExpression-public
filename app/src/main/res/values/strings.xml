@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">오늘의 표정</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_id">ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">User Name</string>
+    <string name="action_sign_in_short">Sign up</string>
+    <string name="chatting">ex) 표정 연습, 음악 추천</string>
+    <string name="send">전송</string>
+
+
+</resources>
